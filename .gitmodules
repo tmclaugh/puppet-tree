@@ -25,3 +25,6 @@
 [submodule "modules/postfix"]
 	path = modules/postfix
 	url = git@github.com:tmclaugh/puppet-postfix.git
+[submodule "modules/samba"]
+	path = modules/samba
+	url = git@github.com:tmclaugh/puppet-samba.git
