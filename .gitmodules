@@ -34,3 +34,6 @@
 [submodule "modules/snmp"]
 	path = modules/snmp
 	url = git@github.com:tmclaugh/puppet-snmp.git
+[submodule "modules/spacewalk"]
+	path = modules/spacewalk
+	url = git@github.com:tmclaugh/puppet-spacewalk.git
