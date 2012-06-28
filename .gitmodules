@@ -4,3 +4,6 @@
 [submodule "modules/sudo"]
 	path = modules/sudo
 	url = git@github.com:tmclaugh/puppet-sudo.git
+[submodule "modules/apache"]
+	path = modules/apache
+	url = git@github.com:tmclaugh/puppet-apache.git
