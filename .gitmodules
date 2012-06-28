@@ -46,3 +46,6 @@
 [submodule "modules/stdlib"]
 	path = modules/stdlib
 	url = git@github.com:tmclaugh/puppetlabs-stdlib.git
+[submodule "modules/ldap"]
+	path = modules/ldap
+	url = git@github.com:tmclaugh/puppet-ldap.git
