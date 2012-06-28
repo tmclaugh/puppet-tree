@@ -1,3 +1,3 @@
-[submodule "modules/ldap"]
-	path = modules/ldap
-	url = git@github.com:tmclaugh/puppet-ldap.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = git@gh-tmclaugh:tmclaugh/puppetlabs-stdlib.git
