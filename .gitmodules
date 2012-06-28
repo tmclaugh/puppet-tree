@@ -37,3 +37,6 @@
 [submodule "modules/spacewalk"]
 	path = modules/spacewalk
 	url = git@github.com:tmclaugh/puppet-spacewalk.git
+[submodule "modules/ssh"]
+	path = modules/ssh
+	url = git@github.com:tmclaugh/puppet-ssh.git
