@@ -10,3 +10,6 @@
 [submodule "modules/krb5"]
 	path = modules/krb5
 	url = git@github.com:tmclaugh/puppet-krb5.git
+[submodule "modules/nscd"]
+	path = modules/nscd
+	url = git@github.com:tmclaugh/puppet-nscd.git
