@@ -31,3 +31,6 @@
 [submodule "modules/sendmail"]
 	path = modules/sendmail
 	url = git@github.com:tmclaugh/puppet-sendmail.git
+[submodule "modules/snmp"]
+	path = modules/snmp
+	url = git@github.com:tmclaugh/puppet-snmp.git
