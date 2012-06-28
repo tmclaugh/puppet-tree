@@ -43,3 +43,6 @@
 [submodule "modules/svn"]
 	path = modules/svn
 	url = git@github.com:tmclaugh/puppet-svn.git
+[submodule "modules/puppet"]
+	path = modules/puppet
+	url = git@github.com:tmclaugh/puppet-puppet.git
