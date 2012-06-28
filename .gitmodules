@@ -46,3 +46,6 @@
 [submodule "modules/puppet"]
 	path = modules/puppet
 	url = git@github.com:tmclaugh/puppet-puppet.git
+[submodule "modules/ldap"]
+	path = modules/ldap
+	url = git@github.com:tmclaugh/puppet-ldap.git
