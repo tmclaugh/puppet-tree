@@ -22,3 +22,6 @@
 [submodule "modules/ntp"]
 	path = modules/ntp
 	url = git@github.com:tmclaugh/puppet-ntp.git
+[submodule "modules/postfix"]
+	path = modules/postfix
+	url = git@github.com:tmclaugh/puppet-postfix.git
