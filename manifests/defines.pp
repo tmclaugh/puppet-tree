@@ -1,7 +1,5 @@
 # Common functions for doing file edits.
 #
-# $Id: defines.pp 858 2012-04-28 23:52:47Z tom $
-#
 # http://projects.puppetlabs.com/projects/puppet/wiki/Simple_Text_Patterns
 # http://labs.alunys.com/viewvc/projects/puppet/trunk/manifests/
 
