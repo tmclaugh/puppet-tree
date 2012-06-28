@@ -28,3 +28,6 @@
 [submodule "modules/samba"]
 	path = modules/samba
 	url = git@github.com:tmclaugh/puppet-samba.git
+[submodule "modules/sendmail"]
+	path = modules/sendmail
+	url = git@github.com:tmclaugh/puppet-sendmail.git
