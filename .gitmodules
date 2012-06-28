@@ -16,3 +16,6 @@
 [submodule "modules/nslcd"]
 	path = modules/nslcd
 	url = git@github.com:tmclaugh/puppet-nslcd.git
+[submodule "modules/nss_ldap"]
+	path = modules/nss_ldap
+	url = git@github.com:tmclaugh/puppet-nss_ldap.git
