@@ -13,3 +13,6 @@
 [submodule "modules/nscd"]
 	path = modules/nscd
 	url = git@github.com:tmclaugh/puppet-nscd.git
+[submodule "modules/nslcd"]
+	path = modules/nslcd
+	url = git@github.com:tmclaugh/puppet-nslcd.git
