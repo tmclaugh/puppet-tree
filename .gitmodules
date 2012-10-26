@@ -49,3 +49,9 @@
 [submodule "modules/ldap"]
 	path = modules/ldap
 	url = git@github.com:tmclaugh/puppet-ldap.git
+[submodule "modules/vcsrepo"]
+	path = modules/vcsrepo
+	url = git@github.com:tmclaugh/puppetlabs-stdlib.git
+[submodule "modules/gitolite"]
+	path = modules/gitolite
+	url = git@github.com:tmclaugh/puppet-gitolite.git
