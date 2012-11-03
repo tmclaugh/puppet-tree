@@ -51,7 +51,7 @@
 	url = git@github.com:tmclaugh/puppet-ldap.git
 [submodule "modules/vcsrepo"]
 	path = modules/vcsrepo
-	url = git@github.com:tmclaugh/puppetlabs-stdlib.git
+	url = git@github.com:tmclaugh/puppetlabs-vcsrepo.git
 [submodule "modules/gitolite"]
 	path = modules/gitolite
 	url = git@github.com:tmclaugh/puppet-gitolite.git
